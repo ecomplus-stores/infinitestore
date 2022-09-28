@@ -5,16 +5,16 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Institucional",
     "list": []
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
+    "title": "",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "📞Fale com a Infinite",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -36,11 +36,11 @@
     "hipercard": false,
     "hsbc": false,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
     "citibank": false,
     "mais": false,
     "itau": true
   },
-  "credits": ""
+  "credits": "Infinite Store Assistência Premium LTDA - CNPJ: 20.969.560/0001-66 © 2022 Todos os direitos reservados."
 }
