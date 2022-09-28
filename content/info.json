@@ -1,18 +1,23 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil 🚀",
+    "link": "https://www.infinitestore.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em até 4x sem juros!😍",
+    "title": "",
+    "link": "https://www.infinitestore.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Não gostou? A primeira troca é gratuita 🔁",
+    "title": "",
+    "link": "https://www.infinitestore.com.br/pages/trocas"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Diferentes promoções ao longo do ano!🎉"
   }
 }
