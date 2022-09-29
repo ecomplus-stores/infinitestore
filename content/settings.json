@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/infinite_logo.png",
   "name": "Infinite Store Assistência Premium",
-  "short_name": "infinitestore",
+  "short_name": "Infinite",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,6 +20,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/infinite_logo.png",
   "store_id": 1445,
-  "description": "✅Somos uma Empresa especializada em Ferramentas Profissionais para Assistência Técnica\n✅Especializado em recondicionamento de telas, contamos com um laboratório moderno para cuidar do seu Smartphone.",
+  "description": "✅Somos uma Empresa especializada em Ferramentas Profissionais para Assistência Técnica.\n\n✅Especializado em recondicionamento de telas, contamos com um laboratório moderno para cuidar do seu Smartphone.",
   "large_icon": "/img/uploads/infinite_logo.png"
 }
