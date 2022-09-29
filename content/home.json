@@ -72,7 +72,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
-      "title": "",
+      "title": "Lançamentos 🚀",
       "headless": false,
       "limit": 12,
       "page": 1
@@ -81,7 +81,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "title": "Populares🎉",
+      "headless": false
     }
   ]
 }
