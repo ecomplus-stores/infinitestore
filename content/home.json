@@ -84,6 +84,15 @@
       "page": 1,
       "title": "Populares🎉",
       "headless": false
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-09-29T00:58:16.631Z",
+      "end": "2022-09-29T00:58:16.700Z",
+      "offers": [
+        "61ee19dc7963422eeecd5151"
+      ]
     }
   ]
 }
