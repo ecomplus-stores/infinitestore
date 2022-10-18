@@ -1,5 +1,6 @@
 {
-  "domain": "infinitestore.netlify.app",
+  "domain": "infinitestore.com.br",
+  "repository": "ecomplus-stores/infinitestore",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
