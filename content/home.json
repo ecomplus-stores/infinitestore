@@ -84,6 +84,10 @@
       "page": 1,
       "title": "Populares🎉",
       "headless": false
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"home\"></script>"
     }
   ]
 }
