@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8ea43ec634875133c68eacd932cedb3e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4a480a3d7ed54f15b4af9ed5351d72d6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e4bf3bc5a5d4d4aba953f9a19310fd9c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.66b3e45582a32b37eb78b234d2fa7547.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6ffcc76141cbd9aa64cfebceb7b9d29c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Infinite Store Assistência Premium",
+  "short_name": "Infinite",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "✅Somos uma Empresa especializada em Ferramentas Profissionais para Assistência Técnica.",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
